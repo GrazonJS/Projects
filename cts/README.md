@@ -1,6 +1,6 @@
-# Chit chat 
+# Chit chat 🤖
 <summary>
-    A Generative AI chatbot model that is capable of answering questions related to National museum of India
+    A Generative AI chatbot model build on langchain that is capable of answering questions related to National museum of India
 </summary>
 
 ## Requirements 
