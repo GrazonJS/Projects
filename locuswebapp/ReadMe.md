@@ -13,6 +13,6 @@ This project is made using HTML, CSS, JS and Django
   ```
 ### Run the server
 
-```
+  ```
   python manage.py runserver
-```
+  ```
